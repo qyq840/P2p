@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">小金库</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="aaa">
+
+    </string-array>
+</resources>
