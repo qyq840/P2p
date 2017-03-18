@@ -23,7 +23,7 @@ public class MyApplication extends Application{
 
         threadid =android.os.Process.myPid();
         handler = new Handler();
-        CrashHandler.getInstance().init();
+//        CrashHandler.getInstance().init();
     }
 
     public static Context getmContext() {

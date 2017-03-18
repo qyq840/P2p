@@ -17,6 +17,7 @@ public class AppManager {
     }
 
     private Stack<Activity> stack =new Stack<>();
+
     public  void addActivity(Activity activity){
         if(activity !=null) {
             stack.add(activity);

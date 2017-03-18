@@ -17,6 +17,7 @@ public class MoreFragment extends BaseFragment{
     @Override
     protected void initlistener() {
 
+        
     }
 
     @Override
